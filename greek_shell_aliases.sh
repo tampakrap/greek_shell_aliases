@@ -1,0 +1,9 @@
+alias ψδ=cd
+alias ψπ=cp
+alias δθ=du
+alias διρ=dir
+alias λσ=ls
+alias λ=l
+alias λ=λλ
+alias μω=mv
+alias ρμ=rm
