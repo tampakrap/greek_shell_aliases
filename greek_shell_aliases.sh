@@ -4,6 +4,6 @@ alias δθ=du
 alias διρ=dir
 alias λσ=ls
 alias λ=l
-alias λ=λλ
+alias λλ=ll
 alias μω=mv
 alias ρμ=rm
