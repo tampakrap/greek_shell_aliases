@@ -2,6 +2,7 @@ alias ψδ=cd
 alias ψπ=cp
 alias δθ=du
 alias διρ=dir
+alias φιλε=file
 alias λσ=ls
 alias λ=l
 alias λλ=ll
