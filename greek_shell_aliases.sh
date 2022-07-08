@@ -1,5 +1,6 @@
 alias ψδ=cd
 alias ψπ=cp
+alias ψατ=cat
 alias δθ=du
 alias διρ=dir
 alias φιλε=file
